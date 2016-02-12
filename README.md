@@ -1,9 +1,7 @@
 # Basic Project
 
- Basic Java Maven Project Structure
+ Test Info Project
 
- * QA
- * Java
- * Maven
+Object Helper Class
 
  [Anna Antonyan](http://sqasolution.com)
